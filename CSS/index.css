@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(171, 192, 192);
+    color: #495057;
+}
+
+.container {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.btn {
+    margin-right: 10px;
+}
